@@ -19,3 +19,6 @@ Com uma instância do Xampp rodando, um servidor é iniciado automaticamente e v
 
 
 Para acessar a página incial do sistema, basta acessar o seu link local/index.php, como por exemplo:
+
+![image](https://user-images.githubusercontent.com/78673503/200225013-16568889-7756-44b1-9604-b68e7344f900.png)
+
